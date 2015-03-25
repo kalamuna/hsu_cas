@@ -1,9 +1,9 @@
-name = hsu CAS and More
-description = Provide CAS-SSO functionality for hsu and some other things
+name = OpenHSU CAS
+description = Provide CAS-SSO functionality.
 core = 7.x
-package = hsu
+package = OpenHSU
 php = 5.2.4
-version = 7.x-1.6
+version = 7.x-1.0-dev
 project = hsu_cas
 
 dependencies[] = cas
